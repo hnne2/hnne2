@@ -11,9 +11,10 @@
 - **Android SDK**
 - **MVVM**
 - **Hilt (Dependency Injection)**
-- Coroutines / Flow
-- ViewModel / LiveData
-- Clean Architecture 
+- **Retrofit2**
+- **Coroutines / Flow**
+- **ViewModel / LiveData**
+- **Clean Architecture**
 
 ### 🌐 Backend / Web
 - **PHP (Yii2)**
