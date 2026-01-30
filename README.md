@@ -1,3 +1,4 @@
+# Kotlin Mobile Android(ios)
 # Php Yii2 backend
 # Kotlin Spring Backend
 
@@ -58,8 +59,6 @@ Android-приложение для работы с объектами недв�
 #Телеграмм бот Крипто обменник cryptogex 
 Написан полностью мной фронтенд и в пару написан бекенд (yii2)
 <img width="1201" height="1046" alt="image" src="https://github.com/user-attachments/assets/b6a0c888-0c84-4a90-b1d4-c2ecaac0efa3" />
-
-<img width="415" height="643" alt="image" src="https://github.com/user-attachments/assets/7dffd259-b3eb-4cea-8b47-d60f99102dd1" />
 
 #Телеграмм бот магазина вейпов https://t.me/zlab_russia_bot
 Написан бекенд на spring kotlin
