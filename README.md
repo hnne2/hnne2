@@ -59,18 +59,6 @@ Android-приложение для работы с объектами недв�
 `Kotlin` · `MVVM` · `Hilt` · `Android SDK`
 
 ---
-
-#Телеграмм бот Крипто обменник cryptogex 
-
-В пару написан бекенд на yii2
-<img width="1201" height="1046" alt="image" src="https://github.com/user-attachments/assets/b6a0c888-0c84-4a90-b1d4-c2ecaac0efa3" />
-
-#Телеграмм бот магазина вейпов https://t.me/zlab_russia_bot
-
-Написан бекенд на spring kotlin
-
-<img width="1199" height="1052" alt="image" src="https://github.com/user-attachments/assets/759f89a4-0010-4cdf-8f52-ff60a6fb4404" />
-
 # mobi.nftblockchain.app
 
 Написанное мной приложение для получения nft (заказ с фл) kotlin
@@ -82,6 +70,20 @@ Android-приложение для работы с объектами недв�
 
   <img src="https://github.com/user-attachments/assets/16940348-0056-4efd-b3aa-fa83a159e243" width="250" />
 </p>
+
+- **MVVM** архитектура
+---
+
+#Телеграмм бот Крипто обменник cryptogex 
+
+В пару написан бекенд на yii2
+<img width="1201" height="1046" alt="image" src="https://github.com/user-attachments/assets/b6a0c888-0c84-4a90-b1d4-c2ecaac0efa3" />
+
+#Телеграмм бот магазина вейпов https://t.me/zlab_russia_bot
+
+Написан бекенд на spring kotlin
+
+<img width="1199" height="1052" alt="image" src="https://github.com/user-attachments/assets/759f89a4-0010-4cdf-8f52-ff60a6fb4404" />
 
 
 
