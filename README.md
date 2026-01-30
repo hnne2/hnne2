@@ -1,4 +1,4 @@
-# Kotlin KMP Android/ios 
+<img width="415" height="643" alt="image" src="https://github.com/user-attachments/assets/f0708633-344d-4743-8e65-c8d594d50bda" /># Kotlin KMP Android/ios 
 # Php Yii2 backend
 # Kotlin Spring Backend
 
@@ -6,14 +6,20 @@
 
 ## 🛠️ Технологический стек
 
+### 📱 Android
 - **Kotlin**
 - **Android SDK**
 - **MVVM**
 - **Hilt (Dependency Injection)**
 - Coroutines / Flow
 - ViewModel / LiveData
-- Clean Architecture (базовый уровень)
+- Clean Architecture 
 
+### 🌐 Backend / Web
+- **PHP (Yii2)**
+- **Kotlin (Spring Boot)**
+- **MySQL**
+- **Docker**
 ---
 
 ## 📌 Проекты
@@ -49,6 +55,16 @@ Android-приложение для работы с объектами недв�
 `Kotlin` · `MVVM` · `Hilt` · `Android SDK`
 
 ---
+
+#Телеграмм бот Крипто обменник cryptogex 
+Написан полностью мной фронтенд и в пару написан бекенд (yii2)
+<img width="1201" height="1046" alt="image" src="https://github.com/user-attachments/assets/b6a0c888-0c84-4a90-b1d4-c2ecaac0efa3" />
+
+<img width="415" height="643" alt="image" src="https://github.com/user-attachments/assets/7dffd259-b3eb-4cea-8b47-d60f99102dd1" />
+
+#Телеграмм бот магазина вейпов https://t.me/zlab_russia_bot
+Написан бекенд на spring kotlin
+<img width="1199" height="1052" alt="image" src="https://github.com/user-attachments/assets/759f89a4-0010-4cdf-8f52-ff60a6fb4404" />
 
 📫 **Контакты**  
 tg - @hnne2
