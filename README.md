@@ -65,5 +65,13 @@ Android-приложение для работы с объектами недв�
 Написан бекенд на spring kotlin
 <img width="1199" height="1052" alt="image" src="https://github.com/user-attachments/assets/759f89a4-0010-4cdf-8f52-ff60a6fb4404" />
 
+# mobi.nftblockchain.app
+Написаное мной приложение для получения nft (заказ с фл) kotlin
+https://st.fl.ru/users/ds/dsemakin89831/portfolio/f_52667a483a16ab7a.jpg
+Было ранее опубликованно в гугл плей, сейчас удалено
+![photo_2025-02-03_23-35-46](https://github.com/user-attachments/assets/93effc32-7bc2-409f-9b7e-5e2663c53c06)
+
+
+
 📫 **Контакты**  
 tg - @hnne2
