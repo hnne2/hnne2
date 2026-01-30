@@ -18,9 +18,11 @@
 ### 🌐 Backend / Web
 - **PHP (Yii2)**
 - **Kotlin (Spring Boot)**
+---
+
+- **GIT**
 - **MySQL**
 - **Docker**
----
 
 ## 📌 Проекты
 
