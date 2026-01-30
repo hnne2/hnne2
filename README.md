@@ -76,6 +76,8 @@ Android-приложение для работы с объектами недв�
 <img width="1100" height="2442" alt="image" src="https://github.com/user-attachments/assets/eb6e7e2f-4f1e-4824-abd9-8ee1e8856766" />
 
 Было ранее опубликованно в гугл плей, сейчас удалено
+
+
 ![photo_2025-02-03_23-35-46](https://github.com/user-attachments/assets/93effc32-7bc2-409f-9b7e-5e2663c53c06)
 
 
