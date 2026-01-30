@@ -73,11 +73,15 @@ Android-приложение для работы с объектами недв�
 # mobi.nftblockchain.app
 
 Написанное мной приложение для получения nft (заказ с фл) kotlin
-<img width="550" height="1200" alt="image" src="https://github.com/user-attachments/assets/eb6e7e2f-4f1e-4824-abd9-8ee1e8856766" />
 
 Было ранее опубликованно в гугл плей, сейчас удалено
 
-![photo_2025-02-03_23-35-46 (1)](https://github.com/user-attachments/assets/16940348-0056-4efd-b3aa-fa83a159e243)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb6e7e2f-4f1e-4824-abd9-8ee1e8856766" width="250" />
+
+  <img src="https://github.com/user-attachments/assets/16940348-0056-4efd-b3aa-fa83a159e243" width="250" />
+</p>
+
 
 
 
