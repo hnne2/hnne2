@@ -1,4 +1,3 @@
-<img width="415" height="643" alt="image" src="https://github.com/user-attachments/assets/f0708633-344d-4743-8e65-c8d594d50bda" /># Kotlin KMP Android/ios 
 # Php Yii2 backend
 # Kotlin Spring Backend
 
