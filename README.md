@@ -8,9 +8,11 @@
 
 ## 🛠️ Технологический стек
 
-### 📱 Android
+### 📱 Mobile
 - **Kotlin**
 - **Android SDK**
+- **KMP**
+- **SwiftUI*
 - **MVVM**
 - **Hilt (Dependency Injection)**
 - **Retrofit2**
