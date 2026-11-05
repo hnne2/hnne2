@@ -33,7 +33,7 @@
 
 
 
-### 📱 Buirai — Android / iOS
+### 📱 Bai — Android / iOS
 🔗 https://github.com/hnne2/BaiPreview
 
 <img src="assets/demo.gif" width="250">
