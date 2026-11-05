@@ -12,7 +12,7 @@
 - **Kotlin**
 - **Android SDK**
 - **KMP**
-- **SwiftUI*
+- **SwiftUI**
 - **MVVM**
 - **Hilt (Dependency Injection)**
 - **Retrofit2**
