@@ -1,6 +1,8 @@
 # Kotlin Mobile Android(ios)
 # Php Yii2 backend
 # Kotlin Spring Backend
+# KMP
+# SwiftUI
 
 ---
 
@@ -26,6 +28,27 @@
 - **Docker**
 
 ## 📌 Проекты
+
+
+
+### 📱 Buirai — Android / iOS
+🔗 https://github.com/hnne2/BaiPreview
+
+![Демонстрация приложения](assets/demo.gif) 
+
+Фрагмент исходников приложения для заказчиков и фрилансеров: чаты и задачи проекта. Демонстрирует архитектуру и связь общего Kotlin-кода с Android и iOS.
+
+**Что представлено:**
+
+- Общая логика на **Kotlin Multiplatform**: ViewModel, состояния и repository
+- Android UI на **Jetpack Compose**, iOS UI на **SwiftUI**
+- Связь Swift с общим кодом через **Kotlin bridge**
+- **REST / WebSocket**, кеширование и unit-тесты
+
+**Стек:**  
+`Kotlin` · `KMP` · `MVVM` · `Jetpack Compose` · `SwiftUI` · `Ktor` · `Coroutines / Flow`
+
+---
 
 ### 🛒 Cart Checker Demo
 🔗 https://github.com/hnne2/cartCheckerDemo  
