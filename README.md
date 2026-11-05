@@ -34,7 +34,7 @@
 ### 📱 Buirai — Android / iOS
 🔗 https://github.com/hnne2/BaiPreview
 
-![Демонстрация приложения](assets/demo.gif) 
+<img src="assets/demo.gif" width="250">
 
 Фрагмент исходников приложения для заказчиков и фрилансеров: чаты и задачи проекта. Демонстрирует архитектуру и связь общего Kotlin-кода с Android и iOS.
 
